@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "generated_at": "2026-10-19T09:31:55+00:00",
+  "generated_at": "2026-10-19T09:32:39+00:00",
   "source": "github-api",
   "method": "stars gained in the last seven days (stargazers/history)",
   "repos": [
@@ -10,8 +10,8 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_total": 328837,
-      "stars_week": 17474,
+      "stars_total": 328847,
+      "stars_week": 17485,
       "forks": 83237,
       "license": "MIT",
       "topics": [
@@ -71,7 +71,7 @@
         "worktrees",
         "yc-backed"
       ],
-      "pushed_at": "2026-10-19T09:31:28Z",
+      "pushed_at": "2026-10-19T09:32:09Z",
       "created_at": "2026-03-17T03:28:57Z"
     },
     {
@@ -100,7 +100,7 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "stars_total": 296744,
-      "stars_week": 1443,
+      "stars_week": 1444,
       "forks": 24916,
       "license": "MIT",
       "topics": [],
@@ -113,8 +113,8 @@
       "url": "https://github.com/anomalyco/opencode",
       "description": "The open source coding agent.",
       "language": "TypeScript",
-      "stars_total": 217057,
-      "stars_week": 1435,
+      "stars_total": 217059,
+      "stars_week": 1438,
       "forks": 29034,
       "license": "MIT",
       "topics": [],
@@ -267,7 +267,7 @@
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
       "language": "Rust",
       "stars_total": 146157,
-      "stars_week": 547,
+      "stars_week": 549,
       "forks": 9661,
       "license": "MIT",
       "topics": [
@@ -301,7 +301,7 @@
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "language": "JavaScript",
-      "stars_total": 99069,
+      "stars_total": 99070,
       "stars_week": 544,
       "forks": 6733,
       "license": "MIT",
@@ -328,7 +328,7 @@
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "stars_total": 99318,
-      "stars_week": 514,
+      "stars_week": 515,
       "forks": 8763,
       "license": "MIT",
       "topics": [
@@ -509,7 +509,7 @@
       "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
       "language": "TypeScript",
       "stars_total": 192905,
-      "stars_week": 366,
+      "stars_week": 365,
       "forks": 10186,
       "license": "AGPL-3.0",
       "topics": [
@@ -544,7 +544,7 @@
       "language": "Python",
       "stars_total": 255074,
       "stars_week": 359,
-      "forks": 55492,
+      "forks": 55493,
       "license": "MIT",
       "topics": [
         "ai",
@@ -716,7 +716,7 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
-      "stars_total": 101695,
+      "stars_total": 101696,
       "stars_week": 247,
       "forks": 8937,
       "license": "Apache-2.0",
@@ -784,8 +784,8 @@
       "url": "https://github.com/VoltAgent/awesome-design-md",
       "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
       "language": "",
-      "stars_total": 122188,
-      "stars_week": 229,
+      "stars_total": 122189,
+      "stars_week": 230,
       "forks": 13577,
       "license": "MIT",
       "topics": [
@@ -1369,7 +1369,7 @@
       "url": "https://github.com/rust-lang/rust",
       "description": "Empowering everyone to build reliable and efficient software.",
       "language": "Rust",
-      "stars_total": 120586,
+      "stars_total": 120587,
       "stars_week": 127,
       "forks": 19077,
       "license": "Apache-2.0",
@@ -1447,7 +1447,7 @@
       "language": "TypeScript",
       "stars_total": 94511,
       "stars_week": 119,
-      "forks": 11763,
+      "forks": 11764,
       "license": "NOASSERTION",
       "topics": [
         "docker",
@@ -1810,7 +1810,7 @@
         "python",
         "tensor"
       ],
-      "pushed_at": "2026-10-19T09:25:07Z",
+      "pushed_at": "2026-10-19T09:32:04Z",
       "created_at": "2016-08-13T05:26:41Z"
     },
     {
@@ -1837,6 +1837,41 @@
     },
     {
       "rank": 74,
+      "full_name": "jaywcjlove/awesome-mac",
+      "url": "https://github.com/jaywcjlove/awesome-mac",
+      "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+      "language": "Swift",
+      "stars_total": 116475,
+      "stars_week": 81,
+      "forks": 9500,
+      "license": "CC0-1.0",
+      "topics": [
+        "app",
+        "apple",
+        "application",
+        "apps",
+        "awesome",
+        "awesome-list",
+        "awesome-mac",
+        "desktop-app",
+        "desktop-application",
+        "desktop-apps",
+        "list",
+        "mac",
+        "mac-osx",
+        "macos",
+        "macos-app",
+        "macos-apps",
+        "macosx",
+        "software",
+        "swift",
+        "swiftui"
+      ],
+      "pushed_at": "2026-10-19T08:57:56Z",
+      "created_at": "2016-07-17T15:33:47Z"
+    },
+    {
+      "rank": 75,
       "full_name": "sherlock-project/sherlock",
       "url": "https://github.com/sherlock-project/sherlock",
       "description": "Hunt down social media accounts by username across social networks",
@@ -1867,7 +1902,7 @@
       "created_at": "2018-12-24T14:30:48Z"
     },
     {
-      "rank": 75,
+      "rank": 76,
       "full_name": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "description": "21 Lessons, Get Started Building with Generative AI ",
@@ -1894,41 +1929,6 @@
       ],
       "pushed_at": "2026-10-19T09:10:07Z",
       "created_at": "2023-06-19T16:28:59Z"
-    },
-    {
-      "rank": 76,
-      "full_name": "jaywcjlove/awesome-mac",
-      "url": "https://github.com/jaywcjlove/awesome-mac",
-      "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
-      "language": "Swift",
-      "stars_total": 116475,
-      "stars_week": 80,
-      "forks": 9500,
-      "license": "CC0-1.0",
-      "topics": [
-        "app",
-        "apple",
-        "application",
-        "apps",
-        "awesome",
-        "awesome-list",
-        "awesome-mac",
-        "desktop-app",
-        "desktop-application",
-        "desktop-apps",
-        "list",
-        "mac",
-        "mac-osx",
-        "macos",
-        "macos-app",
-        "macos-apps",
-        "macosx",
-        "software",
-        "swift",
-        "swiftui"
-      ],
-      "pushed_at": "2026-10-19T08:57:56Z",
-      "created_at": "2016-07-17T15:33:47Z"
     },
     {
       "rank": 77,
@@ -2297,7 +2297,7 @@
       "language": "Python",
       "stars_total": 225393,
       "stars_week": 43,
-      "forks": 51190,
+      "forks": 51189,
       "license": "MIT",
       "topics": [
         "algorithm",
@@ -2521,7 +2521,7 @@
       "language": "Jupyter Notebook",
       "stars_total": 91594,
       "stars_week": 32,
-      "forks": 22670,
+      "forks": 22671,
       "license": "MIT",
       "topics": [
         "data-science",
