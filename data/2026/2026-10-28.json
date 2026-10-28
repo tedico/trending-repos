@@ -1,6 +1,6 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28T12:03:54+00:00",
+  "generated_at": "2026-10-28T12:04:43+00:00",
   "source": "github-api",
   "method": "stars gained in the last seven days (stargazers/history)",
   "repos": [
@@ -10,9 +10,9 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_total": 399979,
-      "stars_week": 20355,
-      "forks": 100336,
+      "stars_total": 399985,
+      "stars_week": 20362,
+      "forks": 100337,
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -79,7 +79,7 @@
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars_total": 117631,
+      "stars_total": 117632,
       "stars_week": 3921,
       "forks": 22510,
       "license": "Apache-2.0",
@@ -99,9 +99,9 @@
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "language": "TypeScript",
-      "stars_total": 264408,
-      "stars_week": 3901,
-      "forks": 32012,
+      "stars_total": 264409,
+      "stars_week": 3902,
+      "forks": 32013,
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -118,8 +118,8 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars_total": 108587,
-      "stars_week": 3543,
+      "stars_total": 108588,
+      "stars_week": 3545,
       "forks": 6858,
       "license": "MIT",
       "topics": [
@@ -144,7 +144,7 @@
         "worktrees",
         "yc-backed"
       ],
-      "pushed_at": "2026-10-28T12:02:16Z",
+      "pushed_at": "2026-10-28T12:03:23Z",
       "created_at": "2026-03-17T03:28:57Z"
     },
     {
@@ -153,8 +153,8 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 105287,
-      "stars_week": 3418,
+      "stars_total": 105288,
+      "stars_week": 3419,
       "forks": 9334,
       "license": "MIT",
       "topics": [
@@ -185,8 +185,8 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_total": 291336,
-      "stars_week": 3260,
+      "stars_total": 291337,
+      "stars_week": 3261,
       "forks": 43129,
       "license": "MIT",
       "topics": [
@@ -257,9 +257,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars_total": 306928,
+      "stars_total": 306927,
       "stars_week": 2378,
-      "forks": 27318,
+      "forks": 27319,
       "license": "MIT",
       "topics": [
         "ai",
@@ -341,7 +341,7 @@
       "description": "A feature-rich command-line audio/video downloader",
       "language": "Python",
       "stars_total": 203227,
-      "stars_week": 1625,
+      "stars_week": 1626,
       "forks": 17823,
       "license": "Unlicense",
       "topics": [
@@ -473,8 +473,8 @@
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
-      "stars_total": 95230,
-      "stars_week": 1202,
+      "stars_total": 95231,
+      "stars_week": 1203,
       "forks": 10710,
       "license": "Apache-2.0",
       "topics": [
@@ -549,8 +549,8 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
-      "stars_total": 136008,
-      "stars_week": 1162,
+      "stars_total": 136009,
+      "stars_week": 1163,
       "forks": 21597,
       "license": "MIT",
       "topics": [
@@ -615,7 +615,7 @@
       "language": "Python",
       "stars_total": 143701,
       "stars_week": 1055,
-      "forks": 16999,
+      "forks": 17000,
       "license": "GPL-3.0",
       "topics": [
         "ai",
@@ -669,7 +669,7 @@
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars_total": 492872,
+      "stars_total": 492873,
       "stars_week": 1035,
       "forks": 54940,
       "license": "MIT",
@@ -697,7 +697,7 @@
       "url": "https://github.com/521xueweihan/HelloGitHub",
       "description": ":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
       "language": "Python",
-      "stars_total": 185194,
+      "stars_total": 185195,
       "stars_week": 998,
       "forks": 13125,
       "license": "",
@@ -716,7 +716,7 @@
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars_total": 164686,
+      "stars_total": 164687,
       "stars_week": 993,
       "forks": 26566,
       "license": "MIT",
@@ -753,7 +753,7 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "language": "Go",
-      "stars_total": 115665,
+      "stars_total": 115666,
       "stars_week": 868,
       "forks": 6677,
       "license": "Apache-2.0",
@@ -780,7 +780,7 @@
       "language": "TypeScript",
       "stars_total": 118457,
       "stars_week": 867,
-      "forks": 15177,
+      "forks": 15176,
       "license": "MIT",
       "topics": [],
       "pushed_at": "2026-10-28T11:56:33Z",
@@ -835,8 +835,8 @@
       "url": "https://github.com/nexu-io/open-design",
       "description": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.",
       "language": "TypeScript",
-      "stars_total": 104528,
-      "stars_week": 772,
+      "stars_total": 104529,
+      "stars_week": 773,
       "forks": 11933,
       "license": "Apache-2.0",
       "topics": [
@@ -973,7 +973,7 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "stars_total": 127306,
-      "stars_week": 537,
+      "stars_week": 538,
       "forks": 20085,
       "license": "AGPL-3.0",
       "topics": [
@@ -1181,7 +1181,7 @@
         "workflow",
         "workflow-automation"
       ],
-      "pushed_at": "2026-10-28T12:02:58Z",
+      "pushed_at": "2026-10-28T12:03:49Z",
       "created_at": "2019-06-22T09:24:21Z"
     },
     {
@@ -1315,7 +1315,7 @@
       "language": "Python",
       "stars_total": 159798,
       "stars_week": 383,
-      "forks": 25246,
+      "forks": 25247,
       "license": "NOASSERTION",
       "topics": [
         "agent",
@@ -1420,8 +1420,8 @@
       "url": "https://github.com/immich-app/immich",
       "description": "High performance self-hosted photo and video management solution.",
       "language": "TypeScript",
-      "stars_total": 117473,
-      "stars_week": 352,
+      "stars_total": 117474,
+      "stars_week": 354,
       "forks": 7381,
       "license": "AGPL-3.0",
       "topics": [
@@ -1534,7 +1534,7 @@
       "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
       "language": "TypeScript",
       "stars_total": 95226,
-      "stars_week": 327,
+      "stars_week": 328,
       "forks": 10634,
       "license": "NOASSERTION",
       "topics": [
@@ -1552,7 +1552,7 @@
         "pdfmerger",
         "self-hosted"
       ],
-      "pushed_at": "2026-10-28T11:56:07Z",
+      "pushed_at": "2026-10-28T12:03:31Z",
       "created_at": "2023-01-27T18:22:42Z"
     },
     {
@@ -1736,8 +1736,8 @@
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars_total": 458090,
-      "stars_week": 286,
+      "stars_total": 458091,
+      "stars_week": 287,
       "forks": 48698,
       "license": "BSD-3-Clause",
       "topics": [
@@ -2111,8 +2111,8 @@
       "url": "https://github.com/microsoft/vscode",
       "description": "Visual Studio Code",
       "language": "TypeScript",
-      "stars_total": 194373,
-      "stars_week": 191,
+      "stars_total": 194374,
+      "stars_week": 192,
       "forks": 44887,
       "license": "MIT",
       "topics": [
@@ -2433,8 +2433,8 @@
       "url": "https://github.com/kubernetes/kubernetes",
       "description": "Production-Grade Container Scheduling and Management",
       "language": "Go",
-      "stars_total": 128583,
-      "stars_week": 110,
+      "stars_total": 128584,
+      "stars_week": 111,
       "forks": 46376,
       "license": "Apache-2.0",
       "topics": [
