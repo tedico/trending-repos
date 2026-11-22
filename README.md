@@ -5,28 +5,28 @@ Data: `data/YYYY/YYYY-MM-DD.json` (public GitHub metadata only). Videos: "Trendi
 
 | # | Repository | Stars this week | Total | Language | days in top 100 (last 30) |
 |---|---|---|---|---|---|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | 173 | 473,307 | TypeScript | 29 |
-| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 127 | 132,390 | TypeScript | 29 |
-| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | 91 | 330,029 | Shell | 29 |
-| 4 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 79 | 206,520 | TypeScript | 29 |
-| 5 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 71 | 116,184 | Python | 25 |
-| 6 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 65 | 285,303 | TypeScript | 29 |
-| 7 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 64 | 114,726 | Rust | 24 |
-| 8 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 63 | 196,590 | JavaScript | 8 |
-| 9 | [anthropics/skills](https://github.com/anthropics/skills) | 58 | 198,702 | Python | 20 |
-| 10 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 53 | 308,584 | JavaScript | 29 |
-| 11 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 52 | 564,587 | Markdown | 12 |
-| 12 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 51 | 151,754 | Python | 29 |
-| 13 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 41 | 152,639 | Python | 29 |
-| 14 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 40 | 119,880 | JavaScript | 22 |
-| 15 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 37 | 339,384 |  | 26 |
-| 16 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 37 | 209,789 | Python | 25 |
-| 17 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 37 | 115,638 | Python | 27 |
-| 18 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 33 | 500,730 | Python | 29 |
-| 19 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 31 | 98,682 | JavaScript | 13 |
-| 20 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 30 | 265,289 | Python | 29 |
-| 21 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 29 | 159,880 | TypeScript | 29 |
-| 22 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 29 | 115,781 | TypeScript | 29 |
-| 23 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | 28 | 336,366 | Python | 29 |
-| 24 | [localsend/localsend](https://github.com/localsend/localsend) | 28 | 100,206 | Dart | 29 |
-| 25 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 28 | 94,015 | TypeScript | 13 |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | 287 | 473,412 | TypeScript | 29 |
+| 2 | [stablyai/orca](https://github.com/stablyai/orca) | 202 | 132,462 | TypeScript | 29 |
+| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | 138 | 330,075 | Shell | 29 |
+| 4 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 130 | 206,567 | TypeScript | 29 |
+| 5 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 116 | 116,226 | Python | 25 |
+| 6 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 107 | 285,340 | TypeScript | 29 |
+| 7 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 107 | 196,632 | JavaScript | 8 |
+| 8 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 102 | 308,628 | JavaScript | 29 |
+| 9 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 96 | 114,757 | Rust | 24 |
+| 10 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 88 | 151,789 | Python | 29 |
+| 11 | [anthropics/skills](https://github.com/anthropics/skills) | 86 | 198,730 | Python | 20 |
+| 12 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 74 | 564,608 | Markdown | 12 |
+| 13 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | 68 | 115,669 | Python | 27 |
+| 14 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 65 | 119,904 | JavaScript | 22 |
+| 15 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 61 | 152,659 | Python | 29 |
+| 16 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 58 | 339,403 |  | 26 |
+| 17 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | 57 | 209,807 | Python | 25 |
+| 18 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | 56 | 115,805 | TypeScript | 29 |
+| 19 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 47 | 500,739 | Python | 29 |
+| 20 | [localsend/localsend](https://github.com/localsend/localsend) | 47 | 100,224 | Dart | 29 |
+| 21 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 46 | 265,302 | Python | 29 |
+| 22 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | 46 | 211,756 | TypeScript | 29 |
+| 23 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 46 | 156,297 | Rust | 29 |
+| 24 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 45 | 98,695 | JavaScript | 13 |
+| 25 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 43 | 136,026 | C++ | 29 |
