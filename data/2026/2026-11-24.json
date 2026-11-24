@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "generated_at": "2026-11-24T10:32:34+00:00",
+  "generated_at": "2026-11-24T12:03:38+00:00",
   "source": "github-api",
   "method": "stars gained in the last seven days (stargazers/history)",
   "repos": [
@@ -10,9 +10,9 @@
       "url": "https://github.com/morluto/rea",
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "language": "TypeScript",
-      "stars_total": 476273,
-      "stars_week": 3295,
-      "forks": 116010,
+      "stars_total": 476366,
+      "stars_week": 3395,
+      "forks": 116028,
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -36,7 +36,7 @@
         "touhou",
         "typescript"
       ],
-      "pushed_at": "2026-11-24T10:27:02Z",
+      "pushed_at": "2026-11-24T12:01:56Z",
       "created_at": "2026-04-14T00:51:32Z"
     },
     {
@@ -45,9 +45,9 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars_total": 135140,
-      "stars_week": 2967,
-      "forks": 8640,
+      "stars_total": 135270,
+      "stars_week": 3100,
+      "forks": 8648,
       "license": "MIT",
       "topics": [
         "agent-ide",
@@ -71,7 +71,7 @@
         "worktrees",
         "yc-backed"
       ],
-      "pushed_at": "2026-11-24T10:31:25Z",
+      "pushed_at": "2026-11-24T12:02:07Z",
       "created_at": "2026-03-17T03:28:57Z"
     },
     {
@@ -80,9 +80,9 @@
       "url": "https://github.com/firecrawl/firecrawl",
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "language": "TypeScript",
-      "stars_total": 208340,
-      "stars_week": 1965,
-      "forks": 10885,
+      "stars_total": 208400,
+      "stars_week": 2027,
+      "forks": 10892,
       "license": "AGPL-3.0",
       "topics": [
         "ai",
@@ -105,7 +105,7 @@
         "web-search",
         "webscraping"
       ],
-      "pushed_at": "2026-11-24T03:35:41Z",
+      "pushed_at": "2026-11-24T10:46:53Z",
       "created_at": "2024-04-15T21:02:29Z"
     },
     {
@@ -114,9 +114,9 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars_total": 331759,
-      "stars_week": 1911,
-      "forks": 27876,
+      "stars_total": 331811,
+      "stars_week": 1965,
+      "forks": 27880,
       "license": "MIT",
       "topics": [],
       "pushed_at": "2026-11-19T13:35:13Z",
@@ -128,9 +128,9 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
-      "stars_total": 117473,
-      "stars_week": 1399,
-      "forks": 13104,
+      "stars_total": 117522,
+      "stars_week": 1449,
+      "forks": 13112,
       "license": "AGPL-3.0",
       "topics": [
         "ai",
@@ -162,9 +162,9 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars_total": 309824,
-      "stars_week": 1388,
-      "forks": 45562,
+      "stars_total": 309868,
+      "stars_week": 1433,
+      "forks": 45566,
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -181,13 +181,33 @@
     },
     {
       "rank": 7,
+      "full_name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "language": "Rust",
+      "stars_total": 115943,
+      "stars_week": 1328,
+      "forks": 6908,
+      "license": "Apache-2.0",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "anti-slop",
+        "design",
+        "slop"
+      ],
+      "pushed_at": "2026-11-24T09:20:08Z",
+      "created_at": "2025-11-16T01:52:04Z"
+    },
+    {
+      "rank": 8,
       "full_name": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_total": 197763,
-      "stars_week": 1292,
-      "forks": 11186,
+      "stars_total": 197795,
+      "stars_week": 1326,
+      "forks": 11191,
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -205,34 +225,14 @@
       "created_at": "2026-06-12T00:52:37Z"
     },
     {
-      "rank": 8,
-      "full_name": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "language": "Rust",
-      "stars_total": 115906,
-      "stars_week": 1289,
-      "forks": 6903,
-      "license": "Apache-2.0",
-      "topics": [
-        "agent-skills",
-        "ai",
-        "anti-slop",
-        "design",
-        "slop"
-      ],
-      "pushed_at": "2026-11-24T09:20:08Z",
-      "created_at": "2025-11-16T01:52:04Z"
-    },
-    {
       "rank": 9,
       "full_name": "deepseek-ai/deepseek-harness",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "language": "TypeScript",
-      "stars_total": 286359,
-      "stars_week": 1220,
-      "forks": 35672,
+      "stars_total": 286393,
+      "stars_week": 1258,
+      "forks": 35676,
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -249,9 +249,9 @@
       "url": "https://github.com/sherlock-project/sherlock",
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
-      "stars_total": 116650,
-      "stars_week": 1077,
-      "forks": 13314,
+      "stars_total": 116714,
+      "stars_week": 1142,
+      "forks": 13322,
       "license": "MIT",
       "topics": [
         "cli",
@@ -280,9 +280,9 @@
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
       "language": "JavaScript",
-      "stars_total": 120871,
-      "stars_week": 1076,
-      "forks": 8114,
+      "stars_total": 120909,
+      "stars_week": 1115,
+      "forks": 8116,
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -297,7 +297,7 @@
         "ui-design",
         "web-design"
       ],
-      "pushed_at": "2026-11-24T06:29:53Z",
+      "pushed_at": "2026-11-24T10:34:23Z",
       "created_at": "2026-02-19T21:44:05Z"
     },
     {
@@ -306,9 +306,9 @@
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "language": "Python",
-      "stars_total": 152718,
-      "stars_week": 1060,
-      "forks": 14680,
+      "stars_total": 152747,
+      "stars_week": 1089,
+      "forks": 14684,
       "license": "Apache-2.0",
       "topics": [
         "ai-agents",
@@ -341,9 +341,9 @@
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
       "description": "An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.",
       "language": "Python",
-      "stars_total": 153525,
-      "stars_week": 973,
-      "forks": 16183,
+      "stars_total": 153559,
+      "stars_week": 1007,
+      "forks": 16187,
       "license": "MIT",
       "topics": [
         "ai-skills",
@@ -375,9 +375,9 @@
       "url": "https://github.com/paperclipai/paperclip",
       "description": "The open-source app everyone uses to manage agents at work",
       "language": "TypeScript",
-      "stars_total": 116530,
-      "stars_week": 809,
-      "forks": 19347,
+      "stars_total": 116566,
+      "stars_week": 846,
+      "forks": 19349,
       "license": "MIT",
       "topics": [
         "acpx",
@@ -406,36 +406,13 @@
     },
     {
       "rank": 15,
-      "full_name": "awesome-selfhosted/awesome-selfhosted",
-      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-      "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
-      "language": "",
-      "stars_total": 340015,
-      "stars_week": 713,
-      "forks": 15924,
-      "license": "NOASSERTION",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "cloud",
-        "free-software",
-        "hosting",
-        "privacy",
-        "self-hosted",
-        "selfhosted"
-      ],
-      "pushed_at": "2026-11-22T15:24:53Z",
-      "created_at": "2015-06-01T02:33:17Z"
-    },
-    {
-      "rank": 16,
       "full_name": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
       "language": "JavaScript",
-      "stars_total": 99333,
-      "stars_week": 707,
-      "forks": 6799,
+      "stars_total": 99366,
+      "stars_week": 740,
+      "forks": 6801,
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -463,14 +440,37 @@
       "created_at": "2026-04-15T05:27:37Z"
     },
     {
+      "rank": 16,
+      "full_name": "awesome-selfhosted/awesome-selfhosted",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+      "language": "",
+      "stars_total": 340036,
+      "stars_week": 735,
+      "forks": 15924,
+      "license": "NOASSERTION",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cloud",
+        "free-software",
+        "hosting",
+        "privacy",
+        "self-hosted",
+        "selfhosted"
+      ],
+      "pushed_at": "2026-11-22T15:24:53Z",
+      "created_at": "2015-06-01T02:33:17Z"
+    },
+    {
       "rank": 17,
       "full_name": "codecrafters-io/build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stars_total": 565133,
-      "stars_week": 674,
-      "forks": 52803,
+      "stars_total": 565158,
+      "stars_week": 700,
+      "forks": 52804,
       "license": "",
       "topics": [
         "awesome-list",
@@ -489,9 +489,9 @@
       "url": "https://github.com/farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
       "language": "Rust",
-      "stars_total": 156816,
-      "stars_week": 638,
-      "forks": 10236,
+      "stars_total": 156833,
+      "stars_week": 655,
+      "forks": 10237,
       "license": "MIT",
       "topics": [
         "ai-tools",
@@ -523,9 +523,9 @@
       "url": "https://github.com/yt-dlp/yt-dlp",
       "description": "A feature-rich command-line audio/video downloader",
       "language": "Python",
-      "stars_total": 210330,
-      "stars_week": 619,
-      "forks": 18613,
+      "stars_total": 210345,
+      "stars_week": 634,
+      "forks": 18616,
       "license": "Unlicense",
       "topics": [
         "cli",
@@ -545,9 +545,9 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars_total": 114384,
-      "stars_week": 585,
-      "forks": 10269,
+      "stars_total": 114401,
+      "stars_week": 602,
+      "forks": 10268,
       "license": "MIT",
       "topics": [
         "agent-infrastructure",
@@ -568,7 +568,7 @@
         "xiaohongshu",
         "youtube-transcript"
       ],
-      "pushed_at": "2026-11-22T15:12:07Z",
+      "pushed_at": "2026-11-24T11:53:00Z",
       "created_at": "2026-02-24T02:10:24Z"
     },
     {
@@ -577,9 +577,9 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars_total": 265762,
-      "stars_week": 582,
-      "forks": 60165,
+      "stars_total": 265767,
+      "stars_week": 595,
+      "forks": 60178,
       "license": "MIT",
       "topics": [
         "ai",
@@ -596,7 +596,7 @@
         "nous-research",
         "openai"
       ],
-      "pushed_at": "2026-11-24T10:28:57Z",
+      "pushed_at": "2026-11-24T11:59:12Z",
       "created_at": "2025-07-22T22:22:28Z"
     },
     {
@@ -605,9 +605,9 @@
       "url": "https://github.com/D4Vinci/Scrapling",
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "language": "Python",
-      "stars_total": 105417,
-      "stars_week": 569,
-      "forks": 11036,
+      "stars_total": 105440,
+      "stars_week": 592,
+      "forks": 11038,
       "license": "BSD-3-Clause",
       "topics": [
         "ai",
@@ -640,8 +640,8 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "language": "TypeScript",
-      "stars_total": 119417,
-      "stars_week": 559,
+      "stars_total": 119436,
+      "stars_week": 579,
       "forks": 10378,
       "license": "Apache-2.0",
       "topics": [
@@ -675,9 +675,9 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.",
       "language": "Go",
-      "stars_total": 122529,
-      "stars_week": 543,
-      "forks": 7151,
+      "stars_total": 122552,
+      "stars_week": 567,
+      "forks": 7153,
       "license": "Apache-2.0",
       "topics": [
         "ai",
@@ -700,8 +700,8 @@
       "url": "https://github.com/clash-verge-rev/clash-verge-rev",
       "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "language": "TypeScript",
-      "stars_total": 160340,
-      "stars_week": 523,
+      "stars_total": 160357,
+      "stars_week": 540,
       "forks": 11538,
       "license": "GPL-3.0",
       "topics": [
@@ -723,9 +723,9 @@
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars_total": 501128,
-      "stars_week": 506,
-      "forks": 56308,
+      "stars_total": 501139,
+      "stars_week": 520,
+      "forks": 56313,
       "license": "MIT",
       "topics": [
         "api",
@@ -751,9 +751,9 @@
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
-      "stars_total": 131151,
-      "stars_week": 496,
-      "forks": 21174,
+      "stars_total": 131166,
+      "stars_week": 512,
+      "forks": 21175,
       "license": "AGPL-3.0",
       "topics": [
         "android",
@@ -785,12 +785,12 @@
       "url": "https://github.com/anomalyco/opencode",
       "description": "The open source coding agent.",
       "language": "TypeScript",
-      "stars_total": 228880,
-      "stars_week": 488,
-      "forks": 31128,
+      "stars_total": 228888,
+      "stars_week": 502,
+      "forks": 31127,
       "license": "MIT",
       "topics": [],
-      "pushed_at": "2026-11-24T10:17:38Z",
+      "pushed_at": "2026-11-24T11:54:52Z",
       "created_at": "2025-04-30T20:08:00Z"
     },
     {
@@ -799,9 +799,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 120091,
-      "stars_week": 475,
-      "forks": 12479,
+      "stars_total": 120110,
+      "stars_week": 495,
+      "forks": 12482,
       "license": "MIT",
       "topics": [
         "agent-skills",
@@ -816,12 +816,26 @@
     },
     {
       "rank": 30,
+      "full_name": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "stars_total": 123644,
+      "stars_week": 429,
+      "forks": 15972,
+      "license": "MIT",
+      "topics": [],
+      "pushed_at": "2026-11-24T11:58:16Z",
+      "created_at": "2025-08-09T14:03:50Z"
+    },
+    {
+      "rank": 31,
       "full_name": "avelino/awesome-go",
       "url": "https://github.com/avelino/awesome-go",
       "description": "A curated list of awesome Go frameworks, libraries and software",
       "language": "Go",
-      "stars_total": 195679,
-      "stars_week": 411,
+      "stars_total": 195692,
+      "stars_week": 424,
       "forks": 13764,
       "license": "MIT",
       "topics": [
@@ -832,51 +846,18 @@
         "golang-library",
         "hacktoberfest"
       ],
-      "pushed_at": "2026-11-23T12:27:44Z",
+      "pushed_at": "2026-11-24T11:51:47Z",
       "created_at": "2014-07-06T13:42:15Z"
     },
     {
-      "rank": 31,
-      "full_name": "earendil-works/pi",
-      "url": "https://github.com/earendil-works/pi",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "language": "TypeScript",
-      "stars_total": 123627,
-      "stars_week": 411,
-      "forks": 15970,
-      "license": "MIT",
-      "topics": [],
-      "pushed_at": "2026-11-24T10:14:29Z",
-      "created_at": "2025-08-09T14:03:50Z"
-    },
-    {
       "rank": 32,
-      "full_name": "localsend/localsend",
-      "url": "https://github.com/localsend/localsend",
-      "description": "An open-source cross-platform alternative to AirDrop",
-      "language": "Dart",
-      "stars_total": 100562,
-      "stars_week": 403,
-      "forks": 5780,
-      "license": "Apache-2.0",
-      "topics": [
-        "dart",
-        "file-sharing",
-        "flutter",
-        "flutter-apps"
-      ],
-      "pushed_at": "2026-11-24T03:19:23Z",
-      "created_at": "2022-12-16T00:46:07Z"
-    },
-    {
-      "rank": 33,
       "full_name": "nexu-io/open-design",
       "url": "https://github.com/nexu-io/open-design",
       "description": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.",
       "language": "TypeScript",
-      "stars_total": 109249,
-      "stars_week": 401,
-      "forks": 12356,
+      "stars_total": 109262,
+      "stars_week": 417,
+      "forks": 12354,
       "license": "Apache-2.0",
       "topics": [
         "agent-skills",
@@ -904,64 +885,33 @@
       "created_at": "2026-04-28T04:25:20Z"
     },
     {
+      "rank": 33,
+      "full_name": "localsend/localsend",
+      "url": "https://github.com/localsend/localsend",
+      "description": "An open-source cross-platform alternative to AirDrop",
+      "language": "Dart",
+      "stars_total": 100572,
+      "stars_week": 413,
+      "forks": 5783,
+      "license": "Apache-2.0",
+      "topics": [
+        "dart",
+        "file-sharing",
+        "flutter",
+        "flutter-apps"
+      ],
+      "pushed_at": "2026-11-24T03:19:23Z",
+      "created_at": "2022-12-16T00:46:07Z"
+    },
+    {
       "rank": 34,
-      "full_name": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "language": "Python",
-      "stars_total": 145350,
-      "stars_week": 381,
-      "forks": 23386,
-      "license": "MIT",
-      "topics": [
-        "ai-video-generator",
-        "content-creation",
-        "ffmpeg",
-        "instagram-reels",
-        "llm",
-        "python",
-        "short-video",
-        "subtitles",
-        "text-to-speech",
-        "tiktok",
-        "video-automation",
-        "video-workflow",
-        "workflow-automation",
-        "youtube-shorts"
-      ],
-      "pushed_at": "2026-11-24T01:59:01Z",
-      "created_at": "2024-03-11T02:57:34Z"
-    },
-    {
-      "rank": 35,
-      "full_name": "Comfy-Org/ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "language": "Python",
-      "stars_total": 148383,
-      "stars_week": 380,
-      "forks": 17676,
-      "license": "GPL-3.0",
-      "topics": [
-        "ai",
-        "comfy",
-        "comfyui",
-        "python",
-        "pytorch",
-        "stable-diffusion"
-      ],
-      "pushed_at": "2026-11-24T10:18:46Z",
-      "created_at": "2023-01-17T03:15:56Z"
-    },
-    {
-      "rank": 36,
       "full_name": "Egonex-AI/Understand-Anything",
       "url": "https://github.com/Egonex-AI/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars_total": 93923,
-      "stars_week": 370,
-      "forks": 7977,
+      "stars_total": 93949,
+      "stars_week": 395,
+      "forks": 7980,
       "license": "MIT",
       "topics": [
         "antigravity-skills",
@@ -986,13 +936,63 @@
       "created_at": "2026-03-15T02:30:51Z"
     },
     {
+      "rank": 35,
+      "full_name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars_total": 145357,
+      "stars_week": 390,
+      "forks": 23388,
+      "license": "MIT",
+      "topics": [
+        "ai-video-generator",
+        "content-creation",
+        "ffmpeg",
+        "instagram-reels",
+        "llm",
+        "python",
+        "short-video",
+        "subtitles",
+        "text-to-speech",
+        "tiktok",
+        "video-automation",
+        "video-workflow",
+        "workflow-automation",
+        "youtube-shorts"
+      ],
+      "pushed_at": "2026-11-24T01:59:01Z",
+      "created_at": "2024-03-11T02:57:34Z"
+    },
+    {
+      "rank": 36,
+      "full_name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "language": "Python",
+      "stars_total": 148388,
+      "stars_week": 386,
+      "forks": 17676,
+      "license": "GPL-3.0",
+      "topics": [
+        "ai",
+        "comfy",
+        "comfyui",
+        "python",
+        "pytorch",
+        "stable-diffusion"
+      ],
+      "pushed_at": "2026-11-24T11:23:22Z",
+      "created_at": "2023-01-17T03:15:56Z"
+    },
+    {
       "rank": 37,
       "full_name": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "language": "TypeScript",
-      "stars_total": 211929,
-      "stars_week": 319,
+      "stars_total": 211940,
+      "stars_week": 331,
       "forks": 61640,
       "license": "NOASSERTION",
       "topics": [
@@ -1017,7 +1017,7 @@
         "workflow",
         "workflow-automation"
       ],
-      "pushed_at": "2026-11-24T10:31:18Z",
+      "pushed_at": "2026-11-24T12:02:49Z",
       "created_at": "2019-06-22T09:24:21Z"
     },
     {
@@ -1026,39 +1026,23 @@
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
-      "stars_total": 156879,
-      "stars_week": 301,
-      "forks": 25108,
+      "stars_total": 156890,
+      "stars_week": 315,
+      "forks": 25104,
       "license": "",
       "topics": [],
-      "pushed_at": "2026-11-24T07:32:23Z",
+      "pushed_at": "2026-11-24T11:50:37Z",
       "created_at": "2025-02-22T17:41:21Z"
     },
     {
       "rank": 39,
-      "full_name": "ggml-org/llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
-      "language": "C++",
-      "stars_total": 136132,
-      "stars_week": 295,
-      "forks": 26008,
-      "license": "MIT",
-      "topics": [
-        "ggml"
-      ],
-      "pushed_at": "2026-11-24T10:24:17Z",
-      "created_at": "2023-03-10T18:58:00Z"
-    },
-    {
-      "rank": 40,
       "full_name": "github/spec-kit",
       "url": "https://github.com/github/spec-kit",
       "description": "💫 Toolkit to help you get started with SDD or any other process!",
       "language": "Python",
-      "stars_total": 151222,
-      "stars_week": 293,
-      "forks": 13584,
+      "stars_total": 151227,
+      "stars_week": 300,
+      "forks": 13585,
       "license": "MIT",
       "topics": [
         "ai",
@@ -1073,13 +1057,29 @@
       "created_at": "2025-08-21T22:54:31Z"
     },
     {
+      "rank": 40,
+      "full_name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars_total": 136134,
+      "stars_week": 298,
+      "forks": 26010,
+      "license": "MIT",
+      "topics": [
+        "ggml"
+      ],
+      "pushed_at": "2026-11-24T12:01:32Z",
+      "created_at": "2023-03-10T18:58:00Z"
+    },
+    {
       "rank": 41,
       "full_name": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars_total": 105019,
-      "stars_week": 277,
+      "stars_total": 105022,
+      "stars_week": 281,
       "forks": 13617,
       "license": "MIT",
       "topics": [
@@ -1112,9 +1112,9 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
-      "stars_total": 187973,
-      "stars_week": 263,
-      "forks": 19166,
+      "stars_total": 187981,
+      "stars_week": 270,
+      "forks": 19169,
       "license": "MIT",
       "topics": [
         "deepseek",
@@ -1137,13 +1137,33 @@
     },
     {
       "rank": 43,
+      "full_name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Towards Agentic Finance Research",
+      "language": "TypeScript",
+      "stars_total": 123659,
+      "stars_week": 268,
+      "forks": 23686,
+      "license": "Apache-2.0",
+      "topics": [
+        "agent",
+        "finance",
+        "llm",
+        "multiagent",
+        "trading"
+      ],
+      "pushed_at": "2026-11-24T11:07:14Z",
+      "created_at": "2024-12-28T03:31:08Z"
+    },
+    {
+      "rank": 44,
       "full_name": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
       "language": "TypeScript",
-      "stars_total": 395137,
-      "stars_week": 261,
-      "forks": 82966,
+      "stars_total": 395139,
+      "stars_week": 266,
+      "forks": 82965,
       "license": "MIT",
       "topics": [
         "ai",
@@ -1154,26 +1174,8 @@
         "own-your-data",
         "personal"
       ],
-      "pushed_at": "2026-11-24T10:31:49Z",
+      "pushed_at": "2026-11-24T12:02:57Z",
       "created_at": "2025-11-24T10:16:47Z"
-    },
-    {
-      "rank": 44,
-      "full_name": "NationalSecurityAgency/ghidra",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
-      "language": "Java",
-      "stars_total": 101165,
-      "stars_week": 255,
-      "forks": 11501,
-      "license": "Apache-2.0",
-      "topics": [
-        "disassembler",
-        "reverse-engineering",
-        "software-analysis"
-      ],
-      "pushed_at": "2026-11-23T12:41:40Z",
-      "created_at": "2019-03-01T03:27:48Z"
     },
     {
       "rank": 45,
@@ -1181,8 +1183,8 @@
       "url": "https://github.com/garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
-      "stars_total": 142517,
-      "stars_week": 254,
+      "stars_total": 142523,
+      "stars_week": 260,
       "forks": 21026,
       "license": "MIT",
       "topics": [],
@@ -1196,35 +1198,53 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "stars_total": 136297,
-      "stars_week": 253,
+      "stars_week": 260,
       "forks": 21626,
       "license": "Apache-2.0",
       "topics": [],
-      "pushed_at": "2026-11-24T10:03:27Z",
+      "pushed_at": "2026-11-24T11:58:30Z",
       "created_at": "2025-04-13T05:37:54Z"
     },
     {
       "rank": 47,
+      "full_name": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "stars_total": 101168,
+      "stars_week": 258,
+      "forks": 11501,
+      "license": "Apache-2.0",
+      "topics": [
+        "disassembler",
+        "reverse-engineering",
+        "software-analysis"
+      ],
+      "pushed_at": "2026-11-23T12:41:40Z",
+      "created_at": "2019-03-01T03:27:48Z"
+    },
+    {
+      "rank": 48,
       "full_name": "torvalds/linux",
       "url": "https://github.com/torvalds/linux",
       "description": "Linux kernel source tree",
       "language": "C",
-      "stars_total": 256493,
-      "stars_week": 252,
-      "forks": 66706,
+      "stars_total": 256497,
+      "stars_week": 256,
+      "forks": 66699,
       "license": "NOASSERTION",
       "topics": [],
       "pushed_at": "2026-11-24T01:53:57Z",
       "created_at": "2011-09-04T22:48:12Z"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "full_name": "Shubhamsaboo/awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
       "language": "Python",
-      "stars_total": 145559,
-      "stars_week": 243,
+      "stars_total": 145566,
+      "stars_week": 250,
       "forks": 21422,
       "license": "Apache-2.0",
       "topics": [
@@ -1237,14 +1257,14 @@
       "created_at": "2024-04-29T05:30:25Z"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "full_name": "OpenHands/OpenHands",
       "url": "https://github.com/OpenHands/OpenHands",
       "description": "🙌 OpenHands: AI-Driven Development",
       "language": "TypeScript",
-      "stars_total": 94205,
-      "stars_week": 234,
-      "forks": 12609,
+      "stars_total": 94213,
+      "stars_week": 242,
+      "forks": 12610,
       "license": "MIT",
       "topics": [
         "agent",
@@ -1257,18 +1277,18 @@
         "llm",
         "openai"
       ],
-      "pushed_at": "2026-11-24T10:23:57Z",
+      "pushed_at": "2026-11-24T12:02:41Z",
       "created_at": "2024-03-13T03:33:31Z"
     },
     {
-      "rank": 50,
+      "rank": 51,
       "full_name": "shadcn-ui/ui",
       "url": "https://github.com/shadcn-ui/ui",
       "description": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
       "language": "TypeScript",
-      "stars_total": 128920,
-      "stars_week": 220,
-      "forks": 11437,
+      "stars_total": 128929,
+      "stars_week": 230,
+      "forks": 11436,
       "license": "MIT",
       "topics": [
         "ai",
@@ -1293,14 +1313,14 @@
       "created_at": "2023-01-04T12:43:27Z"
     },
     {
-      "rank": 51,
+      "rank": 52,
       "full_name": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
       "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
       "language": "Python",
-      "stars_total": 121906,
-      "stars_week": 219,
-      "forks": 13631,
+      "stars_total": 121913,
+      "stars_week": 226,
+      "forks": 13632,
       "license": "MIT",
       "topics": [
         "ai-agents",
@@ -1325,14 +1345,14 @@
       "created_at": "2024-10-31T16:00:56Z"
     },
     {
-      "rank": 52,
+      "rank": 53,
       "full_name": "immich-app/immich",
       "url": "https://github.com/immich-app/immich",
       "description": "High performance self-hosted photo and video management solution.",
       "language": "TypeScript",
-      "stars_total": 120006,
-      "stars_week": 209,
-      "forks": 7689,
+      "stars_total": 120011,
+      "stars_week": 214,
+      "forks": 7687,
       "license": "AGPL-3.0",
       "topics": [
         "backup-tool",
@@ -1352,18 +1372,18 @@
         "typescript",
         "videos"
       ],
-      "pushed_at": "2026-11-24T10:11:04Z",
+      "pushed_at": "2026-11-24T11:58:21Z",
       "created_at": "2022-02-03T15:56:27Z"
     },
     {
-      "rank": 53,
+      "rank": 54,
       "full_name": "2dust/v2rayN",
       "url": "https://github.com/2dust/v2rayN",
       "description": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",
       "language": "C#",
-      "stars_total": 121317,
-      "stars_week": 204,
-      "forks": 16386,
+      "stars_total": 121322,
+      "stars_week": 210,
+      "forks": 16387,
       "license": "GPL-3.0",
       "topics": [
         "proxy",
@@ -1382,14 +1402,14 @@
       "created_at": "2019-07-30T03:47:24Z"
     },
     {
-      "rank": 54,
+      "rank": 55,
       "full_name": "microsoft/playwright",
       "url": "https://github.com/microsoft/playwright",
       "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",
       "language": "TypeScript",
-      "stars_total": 100948,
-      "stars_week": 198,
-      "forks": 6959,
+      "stars_total": 100955,
+      "stars_week": 205,
+      "forks": 6962,
       "license": "Apache-2.0",
       "topics": [
         "automation",
@@ -1408,18 +1428,42 @@
         "web",
         "webkit"
       ],
-      "pushed_at": "2026-11-24T10:16:27Z",
+      "pushed_at": "2026-11-24T11:37:05Z",
       "created_at": "2019-11-15T18:32:42Z"
     },
     {
-      "rank": 55,
+      "rank": 56,
+      "full_name": "Genymobile/scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "stars_total": 155543,
+      "stars_week": 200,
+      "forks": 14271,
+      "license": "Apache-2.0",
+      "topics": [
+        "android",
+        "c",
+        "ffmpeg",
+        "genyteam-system",
+        "libav",
+        "mirroring",
+        "recording",
+        "screen",
+        "sdl2"
+      ],
+      "pushed_at": "2026-11-24T00:19:58Z",
+      "created_at": "2017-11-21T18:00:27Z"
+    },
+    {
+      "rank": 57,
       "full_name": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
       "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
       "language": "Python",
-      "stars_total": 161815,
-      "stars_week": 195,
-      "forks": 25547,
+      "stars_total": 161818,
+      "stars_week": 198,
+      "forks": 25548,
       "license": "NOASSERTION",
       "topics": [
         "agent",
@@ -1442,60 +1486,8 @@
         "skills",
         "workflow"
       ],
-      "pushed_at": "2026-11-24T10:25:15Z",
+      "pushed_at": "2026-11-24T11:56:02Z",
       "created_at": "2023-04-12T07:40:24Z"
-    },
-    {
-      "rank": 56,
-      "full_name": "Genymobile/scrcpy",
-      "url": "https://github.com/Genymobile/scrcpy",
-      "description": "Display and control your Android device",
-      "language": "C",
-      "stars_total": 155540,
-      "stars_week": 195,
-      "forks": 14270,
-      "license": "Apache-2.0",
-      "topics": [
-        "android",
-        "c",
-        "ffmpeg",
-        "genyteam-system",
-        "libav",
-        "mirroring",
-        "recording",
-        "screen",
-        "sdl2"
-      ],
-      "pushed_at": "2026-11-24T00:19:58Z",
-      "created_at": "2017-11-21T18:00:27Z"
-    },
-    {
-      "rank": 57,
-      "full_name": "Stirling-Tools/Stirling-PDF",
-      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
-      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
-      "language": "TypeScript",
-      "stars_total": 97348,
-      "stars_week": 190,
-      "forks": 9382,
-      "license": "NOASSERTION",
-      "topics": [
-        "docker",
-        "hacktoberfest",
-        "java",
-        "pdf",
-        "pdf-converter",
-        "pdf-editor",
-        "pdf-manipulation",
-        "pdf-merger",
-        "pdf-ocr",
-        "pdf-tools",
-        "pdf-web-apps",
-        "pdfmerger",
-        "self-hosted"
-      ],
-      "pushed_at": "2026-11-24T10:03:29Z",
-      "created_at": "2023-01-27T18:22:42Z"
     },
     {
       "rank": 58,
@@ -1503,9 +1495,9 @@
       "url": "https://github.com/practical-tutorials/project-based-learning",
       "description": "Curated list of project-based tutorials",
       "language": "Python",
-      "stars_total": 290376,
-      "stars_week": 189,
-      "forks": 36854,
+      "stars_total": 290381,
+      "stars_week": 196,
+      "forks": 36855,
       "license": "MIT",
       "topics": [
         "beginner-project",
@@ -1526,9 +1518,9 @@
       "url": "https://github.com/ripienaar/free-for-dev",
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "language": "HTML",
-      "stars_total": 143521,
-      "stars_week": 189,
-      "forks": 15448,
+      "stars_total": 143528,
+      "stars_week": 196,
+      "forks": 15450,
       "license": "",
       "topics": [
         "awesome-list",
@@ -1539,13 +1531,41 @@
     },
     {
       "rank": 60,
+      "full_name": "Stirling-Tools/Stirling-PDF",
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+      "language": "TypeScript",
+      "stars_total": 97353,
+      "stars_week": 196,
+      "forks": 9378,
+      "license": "NOASSERTION",
+      "topics": [
+        "docker",
+        "hacktoberfest",
+        "java",
+        "pdf",
+        "pdf-converter",
+        "pdf-editor",
+        "pdf-manipulation",
+        "pdf-merger",
+        "pdf-ocr",
+        "pdf-tools",
+        "pdf-web-apps",
+        "pdfmerger",
+        "self-hosted"
+      ],
+      "pushed_at": "2026-11-24T11:55:30Z",
+      "created_at": "2023-01-27T18:22:42Z"
+    },
+    {
+      "rank": 61,
       "full_name": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
       "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
       "language": "Svelte",
-      "stars_total": 159396,
-      "stars_week": 185,
-      "forks": 23133,
+      "stars_total": 159401,
+      "stars_week": 190,
+      "forks": 23135,
       "license": "NOASSERTION",
       "topics": [
         "ai",
@@ -1564,17 +1584,17 @@
         "ui",
         "webui"
       ],
-      "pushed_at": "2026-11-23T22:11:40Z",
+      "pushed_at": "2026-11-24T11:57:55Z",
       "created_at": "2023-10-06T22:08:27Z"
     },
     {
-      "rank": 61,
+      "rank": 62,
       "full_name": "nilbuild/developer-roadmap",
       "url": "https://github.com/nilbuild/developer-roadmap",
       "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
       "language": "TypeScript",
-      "stars_total": 372667,
-      "stars_week": 178,
+      "stars_total": 372671,
+      "stars_week": 184,
       "forks": 45385,
       "license": "NOASSERTION",
       "topics": [
@@ -1597,17 +1617,17 @@
         "software-architect-roadmap",
         "vue-roadmap"
       ],
-      "pushed_at": "2026-11-24T10:28:54Z",
+      "pushed_at": "2026-11-24T10:57:20Z",
       "created_at": "2017-03-15T13:45:52Z"
     },
     {
-      "rank": 62,
+      "rank": 63,
       "full_name": "rasbt/LLMs-from-scratch",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "language": "Jupyter Notebook",
-      "stars_total": 108962,
-      "stars_week": 177,
+      "stars_total": 108969,
+      "stars_week": 184,
       "forks": 16839,
       "license": "NOASSERTION",
       "topics": [
@@ -1635,14 +1655,14 @@
       "created_at": "2023-07-23T18:15:57Z"
     },
     {
-      "rank": 63,
+      "rank": 64,
       "full_name": "EbookFoundation/free-programming-books",
       "url": "https://github.com/EbookFoundation/free-programming-books",
       "description": ":books: Freely available programming books",
       "language": "Python",
-      "stars_total": 402175,
-      "stars_week": 176,
-      "forks": 67228,
+      "stars_total": 402178,
+      "stars_week": 181,
+      "forks": 67229,
       "license": "CC-BY-4.0",
       "topics": [
         "books",
@@ -1655,14 +1675,14 @@
       "created_at": "2013-10-11T06:50:37Z"
     },
     {
-      "rank": 64,
+      "rank": 65,
       "full_name": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
       "language": "MDX",
-      "stars_total": 178354,
-      "stars_week": 172,
-      "forks": 22733,
+      "stars_total": 178357,
+      "stars_week": 178,
+      "forks": 22734,
       "license": "NOASSERTION",
       "topics": [
         "ai",
@@ -1688,34 +1708,14 @@
       "created_at": "2022-12-05T13:54:13Z"
     },
     {
-      "rank": 65,
-      "full_name": "iptv-org/iptv",
-      "url": "https://github.com/iptv-org/iptv",
-      "description": "Collection of publicly available IPTV channels from all over the world",
-      "language": "TypeScript",
-      "stars_total": 144618,
-      "stars_week": 170,
-      "forks": 8624,
-      "license": "Unlicense",
-      "topics": [
-        "iptv",
-        "m3u",
-        "playlist",
-        "streams",
-        "tv"
-      ],
-      "pushed_at": "2026-11-24T02:43:32Z",
-      "created_at": "2018-11-14T22:00:57Z"
-    },
-    {
       "rank": 66,
       "full_name": "mrdoob/three.js",
       "url": "https://github.com/mrdoob/three.js",
       "description": "JavaScript 3D Library.",
       "language": "JavaScript",
-      "stars_total": 119265,
-      "stars_week": 169,
-      "forks": 37011,
+      "stars_total": 119273,
+      "stars_week": 177,
+      "forks": 37013,
       "license": "MIT",
       "topics": [
         "3d",
@@ -1731,18 +1731,38 @@
         "webgpu",
         "webxr"
       ],
-      "pushed_at": "2026-11-24T10:11:37Z",
+      "pushed_at": "2026-11-24T11:55:52Z",
       "created_at": "2010-03-23T18:58:01Z"
     },
     {
       "rank": 67,
+      "full_name": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "language": "TypeScript",
+      "stars_total": 144623,
+      "stars_week": 176,
+      "forks": 8624,
+      "license": "Unlicense",
+      "topics": [
+        "iptv",
+        "m3u",
+        "playlist",
+        "streams",
+        "tv"
+      ],
+      "pushed_at": "2026-11-24T02:43:32Z",
+      "created_at": "2018-11-14T22:00:57Z"
+    },
+    {
+      "rank": 68,
       "full_name": "jaywcjlove/awesome-mac",
       "url": "https://github.com/jaywcjlove/awesome-mac",
       "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
       "language": "Swift",
-      "stars_total": 119237,
-      "stars_week": 164,
-      "forks": 10566,
+      "stars_total": 119243,
+      "stars_week": 170,
+      "forks": 10567,
       "license": "CC0-1.0",
       "topics": [
         "app",
@@ -1770,14 +1790,14 @@
       "created_at": "2016-07-17T15:33:47Z"
     },
     {
-      "rank": 68,
+      "rank": 69,
       "full_name": "vllm-project/vllm",
       "url": "https://github.com/vllm-project/vllm",
       "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
       "language": "Python",
-      "stars_total": 97465,
-      "stars_week": 152,
-      "forks": 25217,
+      "stars_total": 97470,
+      "stars_week": 157,
+      "forks": 25222,
       "license": "Apache-2.0",
       "topics": [
         "amd",
@@ -1801,32 +1821,40 @@
         "tpu",
         "transformer"
       ],
-      "pushed_at": "2026-11-24T10:19:38Z",
+      "pushed_at": "2026-11-24T12:01:36Z",
       "created_at": "2023-02-09T11:23:20Z"
     },
     {
-      "rank": 69,
-      "full_name": "ruanyf/weekly",
-      "url": "https://github.com/ruanyf/weekly",
-      "description": "科技爱好者周刊，每周五发布",
-      "language": "",
-      "stars_total": 108649,
-      "stars_week": 149,
-      "forks": 4590,
-      "license": "",
-      "topics": [],
-      "pushed_at": "2026-11-21T15:22:18Z",
-      "created_at": "2018-10-13T12:36:07Z"
+      "rank": 70,
+      "full_name": "excalidraw/excalidraw",
+      "url": "https://github.com/excalidraw/excalidraw",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "language": "TypeScript",
+      "stars_total": 136225,
+      "stars_week": 150,
+      "forks": 16272,
+      "license": "MIT",
+      "topics": [
+        "canvas",
+        "collaboration",
+        "diagrams",
+        "drawing",
+        "hacktoberfest",
+        "productivity",
+        "whiteboard"
+      ],
+      "pushed_at": "2026-11-24T08:33:22Z",
+      "created_at": "2020-01-02T01:04:43Z"
     },
     {
-      "rank": 70,
+      "rank": 71,
       "full_name": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "description": "21 Lessons, Get Started Building with Generative AI ",
       "language": "Jupyter Notebook",
-      "stars_total": 124112,
-      "stars_week": 145,
-      "forks": 66892,
+      "stars_total": 124115,
+      "stars_week": 149,
+      "forks": 66893,
       "license": "MIT",
       "topics": [
         "ai",
@@ -1848,36 +1876,28 @@
       "created_at": "2023-06-19T16:28:59Z"
     },
     {
-      "rank": 71,
-      "full_name": "excalidraw/excalidraw",
-      "url": "https://github.com/excalidraw/excalidraw",
-      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-      "language": "TypeScript",
-      "stars_total": 136218,
-      "stars_week": 142,
-      "forks": 16272,
-      "license": "MIT",
-      "topics": [
-        "canvas",
-        "collaboration",
-        "diagrams",
-        "drawing",
-        "hacktoberfest",
-        "productivity",
-        "whiteboard"
-      ],
-      "pushed_at": "2026-11-24T08:33:22Z",
-      "created_at": "2020-01-02T01:04:43Z"
+      "rank": 72,
+      "full_name": "ruanyf/weekly",
+      "url": "https://github.com/ruanyf/weekly",
+      "description": "科技爱好者周刊，每周五发布",
+      "language": "",
+      "stars_total": 108649,
+      "stars_week": 149,
+      "forks": 4590,
+      "license": "",
+      "topics": [],
+      "pushed_at": "2026-11-21T15:22:18Z",
+      "created_at": "2018-10-13T12:36:07Z"
     },
     {
-      "rank": 72,
+      "rank": 73,
       "full_name": "zed-industries/zed",
       "url": "https://github.com/zed-industries/zed",
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
-      "stars_total": 95613,
-      "stars_week": 141,
-      "forks": 11826,
+      "stars_total": 95619,
+      "stars_week": 148,
+      "forks": 11825,
       "license": "NOASSERTION",
       "topics": [
         "gpui",
@@ -1885,18 +1905,18 @@
         "text-editor",
         "zed"
       ],
-      "pushed_at": "2026-11-24T09:53:39Z",
+      "pushed_at": "2026-11-24T12:02:53Z",
       "created_at": "2021-02-20T03:01:06Z"
     },
     {
-      "rank": 73,
+      "rank": 74,
       "full_name": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars_total": 459556,
-      "stars_week": 135,
-      "forks": 47402,
+      "stars_total": 459557,
+      "stars_week": 140,
+      "forks": 47401,
       "license": "BSD-3-Clause",
       "topics": [
         "careers",
@@ -1919,44 +1939,22 @@
       "created_at": "2014-12-24T17:49:19Z"
     },
     {
-      "rank": 74,
+      "rank": 75,
       "full_name": "rust-lang/rust",
       "url": "https://github.com/rust-lang/rust",
       "description": "Empowering everyone to build reliable and efficient software.",
       "language": "Rust",
-      "stars_total": 122337,
-      "stars_week": 130,
-      "forks": 16643,
+      "stars_total": 122340,
+      "stars_week": 133,
+      "forks": 16639,
       "license": "Apache-2.0",
       "topics": [
         "compiler",
         "language",
         "rust"
       ],
-      "pushed_at": "2026-11-24T10:15:28Z",
+      "pushed_at": "2026-11-24T11:52:43Z",
       "created_at": "2010-06-16T20:39:03Z"
-    },
-    {
-      "rank": 75,
-      "full_name": "godotengine/godot",
-      "url": "https://github.com/godotengine/godot",
-      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-      "language": "C++",
-      "stars_total": 120669,
-      "stars_week": 129,
-      "forks": 27624,
-      "license": "MIT",
-      "topics": [
-        "game-development",
-        "game-engine",
-        "gamedev",
-        "godot",
-        "godotengine",
-        "multi-platform",
-        "open-source"
-      ],
-      "pushed_at": "2026-11-24T04:47:36Z",
-      "created_at": "2014-01-04T16:05:36Z"
     },
     {
       "rank": 76,
@@ -1964,9 +1962,9 @@
       "url": "https://github.com/supabase/supabase",
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
-      "stars_total": 115326,
-      "stars_week": 129,
-      "forks": 15148,
+      "stars_total": 115330,
+      "stars_week": 133,
+      "forks": 15146,
       "license": "Apache-2.0",
       "topics": [
         "ai",
@@ -1989,18 +1987,40 @@
         "vectors",
         "websockets"
       ],
-      "pushed_at": "2026-11-24T10:28:47Z",
+      "pushed_at": "2026-11-24T11:52:17Z",
       "created_at": "2019-10-12T05:56:49Z"
     },
     {
       "rank": 77,
+      "full_name": "godotengine/godot",
+      "url": "https://github.com/godotengine/godot",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+      "language": "C++",
+      "stars_total": 120670,
+      "stars_week": 131,
+      "forks": 27625,
+      "license": "MIT",
+      "topics": [
+        "game-development",
+        "game-engine",
+        "gamedev",
+        "godot",
+        "godotengine",
+        "multi-platform",
+        "open-source"
+      ],
+      "pushed_at": "2026-11-24T04:47:36Z",
+      "created_at": "2014-01-04T16:05:36Z"
+    },
+    {
+      "rank": 78,
       "full_name": "microsoft/vscode",
       "url": "https://github.com/microsoft/vscode",
       "description": "Visual Studio Code",
       "language": "TypeScript",
-      "stars_total": 195676,
-      "stars_week": 121,
-      "forks": 43866,
+      "stars_total": 195677,
+      "stars_week": 122,
+      "forks": 43859,
       "license": "MIT",
       "topics": [
         "editor",
@@ -2009,18 +2029,18 @@
         "typescript",
         "visual-studio-code"
       ],
-      "pushed_at": "2026-11-24T10:29:29Z",
+      "pushed_at": "2026-11-24T12:02:03Z",
       "created_at": "2015-09-03T20:23:38Z"
     },
     {
-      "rank": 78,
+      "rank": 79,
       "full_name": "krahets/hello-algo",
       "url": "https://github.com/krahets/hello-algo",
       "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
       "language": "Python",
-      "stars_total": 132656,
-      "stars_week": 119,
-      "forks": 15623,
+      "stars_total": 132658,
+      "stars_week": 121,
+      "forks": 15622,
       "license": "NOASSERTION",
       "topics": [
         "algo",
@@ -2039,14 +2059,14 @@
       "created_at": "2022-11-04T11:08:34Z"
     },
     {
-      "rank": 79,
+      "rank": 80,
       "full_name": "infiniflow/ragflow",
       "url": "https://github.com/infiniflow/ragflow",
       "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
       "language": "Go",
-      "stars_total": 94634,
-      "stars_week": 118,
-      "forks": 11381,
+      "stars_total": 94636,
+      "stars_week": 120,
+      "forks": 11383,
       "license": "Apache-2.0",
       "topics": [
         "agent-harness",
@@ -2066,17 +2086,17 @@
         "retrieval-harness",
         "search-harness"
       ],
-      "pushed_at": "2026-11-24T10:00:15Z",
+      "pushed_at": "2026-11-24T11:32:52Z",
       "created_at": "2023-12-12T06:13:13Z"
     },
     {
-      "rank": 80,
+      "rank": 81,
       "full_name": "fastapi/fastapi",
       "url": "https://github.com/fastapi/fastapi",
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "language": "Python",
-      "stars_total": 104957,
-      "stars_week": 108,
+      "stars_total": 104959,
+      "stars_week": 110,
       "forks": 10359,
       "license": "MIT",
       "topics": [
@@ -2095,16 +2115,16 @@
         "web",
         "websockets"
       ],
-      "pushed_at": "2026-11-18T19:14:19Z",
+      "pushed_at": "2026-11-24T11:14:37Z",
       "created_at": "2018-12-08T08:21:47Z"
     },
     {
-      "rank": 81,
+      "rank": 82,
       "full_name": "react/react",
       "url": "https://github.com/react/react",
       "description": "The library for web and native user interfaces.",
       "language": "JavaScript",
-      "stars_total": 252827,
+      "stars_total": 252826,
       "stars_week": 106,
       "forks": 51804,
       "license": "MIT",
@@ -2120,14 +2140,14 @@
       "created_at": "2013-05-24T16:15:54Z"
     },
     {
-      "rank": 82,
+      "rank": 83,
       "full_name": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
       "description": "The agent engineering platform.",
       "language": "Python",
       "stars_total": 149970,
       "stars_week": 106,
-      "forks": 25164,
+      "forks": 25165,
       "license": "MIT",
       "topics": [
         "agents",
@@ -2155,14 +2175,14 @@
       "created_at": "2022-10-17T02:58:36Z"
     },
     {
-      "rank": 83,
+      "rank": 84,
       "full_name": "ohmyzsh/ohmyzsh",
       "url": "https://github.com/ohmyzsh/ohmyzsh",
       "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
       "language": "Shell",
-      "stars_total": 190798,
-      "stars_week": 98,
-      "forks": 27144,
+      "stars_total": 190800,
+      "stars_week": 100,
+      "forks": 27140,
       "license": "MIT",
       "topics": [
         "cli",
@@ -2185,13 +2205,13 @@
       "created_at": "2009-08-28T18:15:37Z"
     },
     {
-      "rank": 84,
+      "rank": 85,
       "full_name": "astral-sh/uv",
       "url": "https://github.com/astral-sh/uv",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "language": "Rust",
-      "stars_total": 92571,
-      "stars_week": 96,
+      "stars_total": 92575,
+      "stars_week": 100,
       "forks": 3927,
       "license": "Apache-2.0",
       "topics": [
@@ -2200,18 +2220,18 @@
         "resolver",
         "uv"
       ],
-      "pushed_at": "2026-11-24T10:19:11Z",
+      "pushed_at": "2026-11-24T12:00:08Z",
       "created_at": "2023-10-02T20:24:11Z"
     },
     {
-      "rank": 85,
+      "rank": 86,
       "full_name": "flutter/flutter",
       "url": "https://github.com/flutter/flutter",
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
-      "stars_total": 181399,
-      "stars_week": 95,
-      "forks": 32056,
+      "stars_total": 181400,
+      "stars_week": 97,
+      "forks": 32051,
       "license": "BSD-3-Clause",
       "topics": [
         "android",
@@ -2234,25 +2254,8 @@
         "web-framework",
         "windows"
       ],
-      "pushed_at": "2026-11-24T09:12:49Z",
+      "pushed_at": "2026-11-24T12:01:24Z",
       "created_at": "2015-03-06T22:54:58Z"
-    },
-    {
-      "rank": 86,
-      "full_name": "punkpeye/awesome-mcp-servers",
-      "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "description": "A collection of MCP servers.",
-      "language": "",
-      "stars_total": 98452,
-      "stars_week": 95,
-      "forks": 20784,
-      "license": "MIT",
-      "topics": [
-        "ai",
-        "mcp"
-      ],
-      "pushed_at": "2026-11-24T08:42:36Z",
-      "created_at": "2024-11-30T04:49:10Z"
     },
     {
       "rank": 87,
@@ -2260,8 +2263,8 @@
       "url": "https://github.com/microsoft/PowerToys",
       "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
       "language": "C",
-      "stars_total": 141345,
-      "stars_week": 94,
+      "stars_total": 141348,
+      "stars_week": 97,
       "forks": 8733,
       "license": "MIT",
       "topics": [
@@ -2283,12 +2286,29 @@
     },
     {
       "rank": 88,
+      "full_name": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "description": "A collection of MCP servers.",
+      "language": "",
+      "stars_total": 98454,
+      "stars_week": 97,
+      "forks": 20795,
+      "license": "MIT",
+      "topics": [
+        "ai",
+        "mcp"
+      ],
+      "pushed_at": "2026-11-24T08:42:36Z",
+      "created_at": "2024-11-30T04:49:10Z"
+    },
+    {
+      "rank": 89,
       "full_name": "tauri-apps/tauri",
       "url": "https://github.com/tauri-apps/tauri",
       "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
       "language": "Rust",
-      "stars_total": 113098,
-      "stars_week": 94,
+      "stars_total": 113100,
+      "stars_week": 96,
       "forks": 4230,
       "license": "Apache-2.0",
       "topics": [
@@ -2306,14 +2326,14 @@
       "created_at": "2019-07-13T09:09:37Z"
     },
     {
-      "rank": 89,
+      "rank": 90,
       "full_name": "google-gemini/gemini-cli",
       "url": "https://github.com/google-gemini/gemini-cli",
       "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
       "language": "TypeScript",
-      "stars_total": 109042,
-      "stars_week": 89,
-      "forks": 14986,
+      "stars_total": 109045,
+      "stars_week": 95,
+      "forks": 14987,
       "license": "Apache-2.0",
       "topics": [
         "ai",
@@ -2328,14 +2348,14 @@
       "created_at": "2025-04-17T17:04:31Z"
     },
     {
-      "rank": 90,
+      "rank": 91,
       "full_name": "louislam/uptime-kuma",
       "url": "https://github.com/louislam/uptime-kuma",
       "description": "A fancy self-hosted monitoring tool",
       "language": "JavaScript",
-      "stars_total": 94819,
-      "stars_week": 89,
-      "forks": 8873,
+      "stars_total": 94822,
+      "stars_week": 93,
+      "forks": 8874,
       "license": "MIT",
       "topics": [
         "docker",
@@ -2351,18 +2371,18 @@
         "webapp",
         "websocket"
       ],
-      "pushed_at": "2026-11-24T00:04:48Z",
+      "pushed_at": "2026-11-24T11:52:21Z",
       "created_at": "2021-07-03T01:02:42Z"
     },
     {
-      "rank": 91,
+      "rank": 92,
       "full_name": "tensorflow/tensorflow",
       "url": "https://github.com/tensorflow/tensorflow",
       "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
-      "stars_total": 201712,
+      "stars_total": 201710,
       "stars_week": 86,
-      "forks": 77400,
+      "forks": 77392,
       "license": "Apache-2.0",
       "topics": [
         "deep-learning",
@@ -2374,18 +2394,18 @@
         "python",
         "tensorflow"
       ],
-      "pushed_at": "2026-11-24T10:29:35Z",
+      "pushed_at": "2026-11-24T11:56:34Z",
       "created_at": "2015-11-07T01:19:20Z"
     },
     {
-      "rank": 92,
+      "rank": 93,
       "full_name": "huggingface/transformers",
       "url": "https://github.com/huggingface/transformers",
       "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
       "language": "Python",
-      "stars_total": 169282,
-      "stars_week": 81,
-      "forks": 35281,
+      "stars_total": 169285,
+      "stars_week": 84,
+      "forks": 35282,
       "license": "Apache-2.0",
       "topics": [
         "audio",
@@ -2408,18 +2428,18 @@
         "transformer",
         "vlm"
       ],
-      "pushed_at": "2026-11-24T10:16:31Z",
+      "pushed_at": "2026-11-24T12:00:41Z",
       "created_at": "2018-10-29T13:56:00Z"
     },
     {
-      "rank": 93,
+      "rank": 94,
       "full_name": "nodejs/node",
       "url": "https://github.com/nodejs/node",
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "language": "JavaScript",
-      "stars_total": 123879,
-      "stars_week": 81,
-      "forks": 38014,
+      "stars_total": 123882,
+      "stars_week": 84,
+      "forks": 38008,
       "license": "NOASSERTION",
       "topics": [
         "javascript",
@@ -2436,14 +2456,14 @@
       "created_at": "2014-11-26T19:57:11Z"
     },
     {
-      "rank": 94,
+      "rank": 95,
       "full_name": "langflow-ai/langflow",
       "url": "https://github.com/langflow-ai/langflow",
       "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
       "language": "Python",
-      "stars_total": 156900,
-      "stars_week": 79,
-      "forks": 10443,
+      "stars_total": 156902,
+      "stars_week": 81,
+      "forks": 10444,
       "license": "MIT",
       "topics": [
         "agents",
@@ -2457,14 +2477,14 @@
       "created_at": "2023-02-08T22:28:03Z"
     },
     {
-      "rank": 95,
+      "rank": 96,
       "full_name": "kubernetes/kubernetes",
       "url": "https://github.com/kubernetes/kubernetes",
       "description": "Production-Grade Container Scheduling and Management",
       "language": "Go",
-      "stars_total": 129268,
-      "stars_week": 79,
-      "forks": 45087,
+      "stars_total": 129269,
+      "stars_week": 80,
+      "forks": 45080,
       "license": "Apache-2.0",
       "topics": [
         "cncf",
@@ -2472,18 +2492,18 @@
         "go",
         "kubernetes"
       ],
-      "pushed_at": "2026-11-24T02:58:23Z",
+      "pushed_at": "2026-11-24T11:24:31Z",
       "created_at": "2014-06-06T22:56:04Z"
     },
     {
-      "rank": 96,
+      "rank": 97,
       "full_name": "golang/go",
       "url": "https://github.com/golang/go",
       "description": "The Go programming language",
       "language": "Go",
-      "stars_total": 140048,
+      "stars_total": 140044,
       "stars_week": 74,
-      "forks": 20166,
+      "forks": 20164,
       "license": "BSD-3-Clause",
       "topics": [
         "go",
@@ -2495,14 +2515,14 @@
       "created_at": "2014-08-19T04:33:40Z"
     },
     {
-      "rank": 97,
+      "rank": 98,
       "full_name": "pytorch/pytorch",
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
-      "stars_total": 105705,
-      "stars_week": 73,
-      "forks": 30678,
+      "stars_total": 105706,
+      "stars_week": 74,
+      "forks": 30676,
       "license": "NOASSERTION",
       "topics": [
         "autograd",
@@ -2514,31 +2534,8 @@
         "python",
         "tensor"
       ],
-      "pushed_at": "2026-11-24T10:31:24Z",
+      "pushed_at": "2026-11-24T11:55:34Z",
       "created_at": "2016-08-13T05:26:41Z"
-    },
-    {
-      "rank": 98,
-      "full_name": "home-assistant/core",
-      "url": "https://github.com/home-assistant/core",
-      "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
-      "language": "Python",
-      "stars_total": 92473,
-      "stars_week": 72,
-      "forks": 39347,
-      "license": "Apache-2.0",
-      "topics": [
-        "asyncio",
-        "hacktoberfest",
-        "home-automation",
-        "internet-of-things",
-        "iot",
-        "mqtt",
-        "python",
-        "raspberry-pi"
-      ],
-      "pushed_at": "2026-11-24T10:29:06Z",
-      "created_at": "2013-09-17T07:29:48Z"
     },
     {
       "rank": 99,
@@ -2547,39 +2544,34 @@
       "description": "Self-hosted AI workspace. ",
       "language": "Python",
       "stars_total": 95934,
-      "stars_week": 70,
-      "forks": 2032,
+      "stars_week": 72,
+      "forks": 2033,
       "license": "AGPL-3.0",
       "topics": [],
-      "pushed_at": "2026-11-24T10:06:57Z",
+      "pushed_at": "2026-11-24T10:36:48Z",
       "created_at": "2026-05-31T14:05:51Z"
     },
     {
       "rank": 100,
-      "full_name": "oven-sh/bun",
-      "url": "https://github.com/oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "language": "Rust",
-      "stars_total": 96864,
-      "stars_week": 66,
-      "forks": 5224,
-      "license": "NOASSERTION",
+      "full_name": "tailwindlabs/tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "language": "TypeScript",
+      "stars_total": 98727,
+      "stars_week": 69,
+      "forks": 6370,
+      "license": "MIT",
       "topics": [
-        "bun",
-        "bundler",
-        "javascript",
-        "javascriptcore",
-        "jsx",
-        "nodejs",
-        "npm",
-        "react",
-        "rust",
-        "rust-lang",
-        "transpiler",
-        "typescript"
+        "css",
+        "css-framework",
+        "functional-css",
+        "postcss",
+        "responsive",
+        "tailwindcss",
+        "utility-classes"
       ],
-      "pushed_at": "2026-11-24T10:10:26Z",
-      "created_at": "2021-04-14T00:48:17Z"
+      "pushed_at": "2026-11-24T11:56:00Z",
+      "created_at": "2017-10-06T14:59:14Z"
     }
   ]
 }
