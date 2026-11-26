@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T12:02:31+00:00",
+  "generated_at": "2026-11-26T12:03:44+00:00",
   "source": "github-api",
   "method": "stars gained in the last seven days (stargazers/history)",
   "repos": [
@@ -10,8 +10,8 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
-      "stars_total": 139464,
-      "stars_week": 7369,
+      "stars_total": 139466,
+      "stars_week": 7370,
       "forks": 8926,
       "license": "MIT",
       "topics": [
@@ -36,7 +36,7 @@
         "worktrees",
         "yc-backed"
       ],
-      "pushed_at": "2026-11-26T12:01:51Z",
+      "pushed_at": "2026-11-26T12:03:01Z",
       "created_at": "2026-03-17T03:28:57Z"
     },
     {
@@ -80,8 +80,8 @@
       "url": "https://github.com/firecrawl/firecrawl",
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "language": "TypeScript",
-      "stars_total": 210519,
-      "stars_week": 4189,
+      "stars_total": 210521,
+      "stars_week": 4191,
       "forks": 11022,
       "license": "AGPL-3.0",
       "topics": [
@@ -151,8 +151,8 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "language": "JavaScript",
-      "stars_total": 199081,
-      "stars_week": 2657,
+      "stars_total": 199082,
+      "stars_week": 2658,
       "forks": 11299,
       "license": "MIT",
       "topics": [
@@ -211,7 +211,7 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "stars_total": 117221,
-      "stars_week": 2623,
+      "stars_week": 2624,
       "forks": 7016,
       "license": "Apache-2.0",
       "topics": [
@@ -254,7 +254,7 @@
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "language": "TypeScript",
       "stars_total": 287366,
-      "stars_week": 2279,
+      "stars_week": 2280,
       "forks": 35867,
       "license": "MIT",
       "topics": [
@@ -398,8 +398,8 @@
       "url": "https://github.com/tt-a1i/archify",
       "description": "Turn any idea, plan, or codebase into an interactive diagram or one-page answer: 10 diagram types, Architecture Diagnosis, Story video and PR walkthroughs. An Agent Skill for Claude Code, Codex, Cursor and more.",
       "language": "JavaScript",
-      "stars_total": 100268,
-      "stars_week": 1669,
+      "stars_total": 100271,
+      "stars_week": 1670,
       "forks": 6861,
       "license": "Apache-2.0",
       "topics": [
@@ -491,8 +491,8 @@
       "url": "https://github.com/farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
       "language": "Rust",
-      "stars_total": 157367,
-      "stars_week": 1242,
+      "stars_total": 157368,
+      "stars_week": 1243,
       "forks": 10270,
       "license": "MIT",
       "topics": [
@@ -525,8 +525,8 @@
       "url": "https://github.com/yt-dlp/yt-dlp",
       "description": "A feature-rich command-line audio/video downloader",
       "language": "Python",
-      "stars_total": 210859,
-      "stars_week": 1160,
+      "stars_total": 210860,
+      "stars_week": 1161,
       "forks": 18676,
       "license": "Unlicense",
       "topics": [
@@ -576,7 +576,7 @@
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "stars_total": 114896,
-      "stars_week": 1109,
+      "stars_week": 1110,
       "forks": 10320,
       "license": "MIT",
       "topics": [
@@ -833,8 +833,8 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars_total": 120520,
-      "stars_week": 928,
+      "stars_total": 120521,
+      "stars_week": 929,
       "forks": 12538,
       "license": "MIT",
       "topics": [
@@ -1019,7 +1019,7 @@
         "workflow",
         "workflow-automation"
       ],
-      "pushed_at": "2026-11-26T12:01:20Z",
+      "pushed_at": "2026-11-26T12:03:04Z",
       "created_at": "2019-06-22T09:24:21Z"
     },
     {
@@ -1078,8 +1078,8 @@
       "url": "https://github.com/ggml-org/llama.cpp",
       "description": "LLM inference in C/C++",
       "language": "C++",
-      "stars_total": 136338,
-      "stars_week": 549,
+      "stars_total": 136339,
+      "stars_week": 550,
       "forks": 26116,
       "license": "MIT",
       "topics": [
@@ -1125,7 +1125,7 @@
       "language": "Rust",
       "stars_total": 136525,
       "stars_week": 511,
-      "forks": 21645,
+      "forks": 21646,
       "license": "Apache-2.0",
       "topics": [],
       "pushed_at": "2026-11-26T10:57:49Z",
@@ -1193,8 +1193,8 @@
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
-      "stars_total": 101401,
-      "stars_week": 485,
+      "stars_total": 101402,
+      "stars_week": 486,
       "forks": 11534,
       "license": "Apache-2.0",
       "topics": [
@@ -1348,7 +1348,7 @@
         "llm",
         "openai"
       ],
-      "pushed_at": "2026-11-26T12:01:27Z",
+      "pushed_at": "2026-11-26T12:02:32Z",
       "created_at": "2024-03-13T03:33:31Z"
     },
     {
@@ -1643,8 +1643,8 @@
       "url": "https://github.com/mrdoob/three.js",
       "description": "JavaScript 3D Library.",
       "language": "JavaScript",
-      "stars_total": 119443,
-      "stars_week": 352,
+      "stars_total": 119444,
+      "stars_week": 353,
       "forks": 37033,
       "license": "MIT",
       "topics": [
@@ -1706,7 +1706,7 @@
       "language": "Python",
       "stars_total": 402320,
       "stars_week": 337,
-      "forks": 67253,
+      "forks": 67254,
       "license": "CC-BY-4.0",
       "topics": [
         "books",
@@ -1749,7 +1749,7 @@
         "skills",
         "workflow"
       ],
-      "pushed_at": "2026-11-26T11:58:58Z",
+      "pushed_at": "2026-11-26T12:02:40Z",
       "created_at": "2023-04-12T07:40:24Z"
     },
     {
@@ -2248,7 +2248,7 @@
       "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
       "language": "TypeScript",
       "stars_total": 109165,
-      "stars_week": 220,
+      "stars_week": 221,
       "forks": 15011,
       "license": "Apache-2.0",
       "topics": [
@@ -2473,7 +2473,7 @@
         "transformer",
         "vlm"
       ],
-      "pushed_at": "2026-11-26T11:57:50Z",
+      "pushed_at": "2026-11-26T12:03:04Z",
       "created_at": "2018-10-29T13:56:00Z"
     },
     {
@@ -2496,7 +2496,7 @@
         "python",
         "tensor"
       ],
-      "pushed_at": "2026-11-26T11:52:46Z",
+      "pushed_at": "2026-11-26T12:02:58Z",
       "created_at": "2016-08-13T05:26:41Z"
     },
     {
